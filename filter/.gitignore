@@ -1,4 +1,4 @@
-lib
-.merlin
 node_modules
+lib
 *.bs.js
+.merlin
