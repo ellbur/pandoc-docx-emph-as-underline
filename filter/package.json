@@ -8,5 +8,8 @@
   },
   "dependencies": {
     "rescript": "9.1.4"
+  },
+  "bin": {
+    "execute": "./src/index.js"
   }
 }
